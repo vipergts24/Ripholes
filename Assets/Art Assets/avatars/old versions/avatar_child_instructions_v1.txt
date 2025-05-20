@@ -1,0 +1,8 @@
+Child Avatar Animations:
+
+frame 1:	standing animation
+frame 1-2:	walk/run animation
+frame 3-4:	turn animation (the image is flipped already)
+frame 5:	jump
+frame 6:	rip
+frame 7-8:	push

@@ -1,0 +1,12 @@
+menu_pressstart instructions:
+
+location: screen 0, 96x 32y
+
+Once the ripholes title has been drawn,
+start the "press start" animation.
+Loop frames 15-17.
+
+
+
+frames 1-14: drawing animation
+frames 15-17: looping animation

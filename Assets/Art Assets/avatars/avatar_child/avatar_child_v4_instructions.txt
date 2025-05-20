@@ -1,0 +1,10 @@
+instructions for avatar_child_v4
+
+frames 0-5: bored animation
+frames 6-8: walking animation
+frames 9-11: turning animation
+frames 12-13: jumping animation
+frames 14-15: rip animation
+frames 16-17: pushing animation
+frame  18: death animation
+frames 19-41: drawing animation (play this at the start of each level)

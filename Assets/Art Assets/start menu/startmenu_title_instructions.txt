@@ -1,0 +1,20 @@
+Instructions for menu_title:
+
+There are 4 sprites at the following locations on screen 1:
+ _______ _______
+|Quad1	|Quad2	|
+|64x	|128x 	|
+|48y	|48y	|
+|_______|_______|
+|Quad3	|Quad4	|
+|64x	|128x	|
+|112y	|112y	|
+|_______|_______|
+
+
+Run the animation for each simultaneously:
+
+frames 1-34: writes title
+frames 35-66: writes over title
+frames 67-100: writes a third time
+frames 101-103: looping animation **play this once everything is written**

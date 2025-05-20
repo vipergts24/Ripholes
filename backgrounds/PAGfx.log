@@ -1,0 +1,15 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+1 backgrounds :
+  level_01_mini_map : EasyBg, 256x192, Pal : level_01_mini_map_Pal, 675 tiles -> level_01_mini_map_Tiles and level_01_mini_map_Map
+
+1 palettes :
+  level_01_mini_map_Pal, 138 colors
+
+Converted in 0 minutes 0 seconds
+
+Finished !

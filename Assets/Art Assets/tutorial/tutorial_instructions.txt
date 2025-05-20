@@ -1,0 +1,13 @@
+Tutorial Instructions
+
+
+Page 1:
+Log location: 118x, 439y
+
+Page 2:
+kite location: 417x, 344y
+wind location: 231x, 392y
+
+Page 3:
+rock location: 877x, 446y
+wind location(flipped): 565x, 355y

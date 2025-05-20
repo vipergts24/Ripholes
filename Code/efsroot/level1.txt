@@ -1,0 +1,24 @@
+# (LEVEL 1) Tutorial - Rip and Flip mechanics
+
+#############################################
+
+# PAGE 1
+
+page tutorial_ripFlip_page01 
+beginLvl beginLvl_tutorial 
+player    35    190   0 
+speech 75 215 event_speech 10 0 3 speech_tutorial_ripFlip_01 
+speech 400 215 event_speech 10 0 3 speech_tutorial_ripFlip_02 
+speech 450 215 event_speech 10 0 3 speech_tutorial_ripFlip_03 
+
+#############################################
+
+# PAGE 2
+
+page tutorial_ripFlip_page02 
+dood 64 46 wind 0 0 14 10 not_rippable static 0 
+dood 200 10 wind 0 0 14 10 not_rippable static 0 
+dood 100 200 door 7 0 0 0 rippable static 0 
+speech 350 215 event_speech 10 0 3 speech_tutorial_ripFlip_04  
+
+

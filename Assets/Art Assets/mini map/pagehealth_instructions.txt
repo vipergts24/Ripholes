@@ -1,0 +1,15 @@
+Pagehealth Instructions
+
+
+pagehealth_top:
+location: 176x, 0y
+
+
+pagehealth_bottom:
+location: 176x, 64y
+
+pagehealth_meter: (goes on top of pagehealth_top and pagehealth_bottom)
+location: 191x, 46y  (or +15x, +46y)
+animation:
+frame1: 0%
+frame2-101: 1-100%

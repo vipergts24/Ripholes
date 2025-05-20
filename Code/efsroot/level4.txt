@@ -1,0 +1,57 @@
+# (LEVEL 4) HOUSE
+# orange crayon
+
+# Dood types:
+# 0:  FILLER
+# 1:  PLAYER
+# 2:  STATICDOOD
+# 3:  HOLE
+# 4:  REVERSEHOLE
+# 5:  COLLECTIBLE
+# 6:  INVENTORY
+# 7:  GOAL
+# 8:  FLUFF
+# 9:  SCRIB
+# 10: EVENT_SPEECH
+# 11: BEGINLVL
+# 12: EVENTPOPUP
+# 13: CHURRICANE
+# 14: PLATFORM
+# 15: SPRING
+
+# dood (u8)posX (u8)posY (string)sprite_name (Character)dood_type (u8)1stFrame (u8)2ndFrame (u8)speed (string)rippable 
+
+################################################
+
+# PAGE 1
+
+page tutorial_page01 
+player 100 185 0 
+beginLvl beginLvl_house 
+dood 340 218 scrib 9 0 3 10 rippable patrol 150 jump 800 
+
+#############################################
+
+# PAGE 2
+
+page tutorial_page02 
+dood 340 218 scrib 9 0 3 10 rippable patrol 150 jump 800 
+dood 110 208 log 2 0 0 0 rippable static 0 
+dood 110 160 platform_cloud 14 0 4 8 rippable horizplat 200 
+
+#############################################
+
+# PAGE 3
+
+page tutorial_page03 
+dood 235 50 collectible_crayon_orange 5 0 0 0 not_rippable static 0 
+
+#############################################
+
+# PAGE 4
+
+page tutorial_page04 
+dood 357 200 rock 2 0 0 0 rippable static 0 
+dood 231 150 wind 0 0 14 10 not_rippable static 0 
+dood 400 125 wind 0 0 14 10 not_rippable static 0 
+dood 80 123 door 7 0 0 0 not_rippable static 0 

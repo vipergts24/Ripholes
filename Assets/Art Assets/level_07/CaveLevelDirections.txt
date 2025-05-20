@@ -1,0 +1,15 @@
+Page 1:  Overall Theme is inside of a cave.  The spikes on the top and bottom will hurt you if the player touches them (red on collision map).  Some spikes (every 3-4th or so) will be sprites that will fall from the ceiling and impale the avatar.  A bat AI flies through the level that will hurt you or knock you into the spikes.
+
+Sprites needed: RockSpike, Bat
+
+Page 2:  Overall Theme is outside of the cave, cliffs and a waterfall (or possibly in the cave?).  The water will hurt you if you touch it.
+
+Sprites needed: Rock, Spring, Cloud (moving platform)
+
+Page 3: Overall theme is outside possibly in a field/farm at night.  Noticeable structures are a windmill type object and barn possibly to hide a collectible at the top.
+
+Sprites needed: Door, Cat, Pencil, Possibly Bat
+
+
+Solution:  The player starts on page 1 and dodges spikes and bats until it reaches a spike pit that it can't pass.  The player must retrieve the rock from page 2 to use as a stepping stone to get across and on to the cliff ledge (page 1 that is the same height as the cloud on page 2).  Once the cloud is retrieved, it can be used to obtain the spring that increases the player's jump capability.  The player must go to page 3 and avoid the cat (or use arky to defeat him) and use the spring to get to the moon (or possibly a create use of the spring/platform from the windmill) a collectible can be received on top of the barn (or second level) by climbing the windmill with various objects.
+

@@ -1,0 +1,36 @@
+# (LEVEL 6) PURPLE SOCK PUPPETS
+# green crayon
+
+#############################################
+
+# PAGE 1
+
+page level_04_page01 
+player    55    220   0 
+beginLvl beginLvl_level_04 
+dood 150 253 scrib 9 0 3 10 unrippable patrol 150 jump 800 
+dood 406 330 spring 15 0 6 8 rippable gravity 0 
+
+#############################################
+
+# PAGE 2
+
+page level_04_page02 
+dood 50 223 scrib 9 0 3 10 unrippable patrol 150 jump 800 
+dood 75 75 collectible_crayon_green 5 0 0 0 not_rippable static 0 
+
+#############################################
+
+# PAGE 3
+
+page level_04_page03 
+
+#############################################
+
+# PAGE 4
+
+page level_04_page04 
+dood 170 303 scrib 9 0 3 10 unrippable jump 3000 
+dood 330 250 scrib 9 0 3 10 unrippable jump 2900 
+dood 170 300 scrib 9 0 3 10 rippable patrol 150 jump 800 
+dood 406 253 door 7 0 0 0 not_rippable static 0 

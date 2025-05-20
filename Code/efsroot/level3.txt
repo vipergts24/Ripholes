@@ -1,0 +1,15 @@
+# (LEVEL 3) TUTORIAL LEVEL - INTERACTION WITH CLOUD
+# red crayon
+
+#############################################
+
+# PAGE 1
+
+page tutorial_interact_page01 
+player    65    247   0 
+beginLvl beginLvl_tutorial_interact 
+speech 30 248 event_speech 10 0 3 speech_tutorial_interact_01 
+speech 180 248 event_speech 10 0 3 speech_tutorial_interact_02 
+dood 406 213 door 7 0 0 0 not_rippable static 0 
+dood 50 320 platform_cloud 14 0 4 8 rippable horizplat 200 
+dood 240 280 collectible_crayon_red 5 0 0 0 not_rippable static 0 

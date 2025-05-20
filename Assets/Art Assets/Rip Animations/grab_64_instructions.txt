@@ -1,0 +1,4 @@
+grab_64 instructions
+
+frames 1-9: pulling animation - increment as the cursor moves
+frames 10-15: flattening animation - play this after the object rips

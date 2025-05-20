@@ -1,0 +1,4 @@
+page level_01 
+player 200 256 0 2 
+hdood 628 505 garageleft 
+hdood 692 505 garageright 

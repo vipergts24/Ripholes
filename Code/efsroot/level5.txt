@@ -1,0 +1,34 @@
+# (LEVEL 5) TREES
+# yellow crayon
+
+#############################################
+
+# PAGE 1
+
+page level_03_page01 
+beginLvl beginLvl_trees 
+player 135 145 0 
+dood 190 235 scrib 9 0 3 10 rippable patrol 150 jump 800 
+dood 288 235 scrib 9 0 3 10 rippable patrol 150 
+dood 254 230 scrib 9 0 3 10 rippable patrol 150 
+dood 183 310 spring 15 0 6 8 rippable gravity 0 
+
+#############################################
+
+# PAGE 2
+
+page level_03_page02 
+dood 124 132 spring 15 0 3 10 rippable 
+dood 132 195 platform_cloud 14 0 4 8 rippable horizplat 200 
+dood 235 145 collectible_crayon_yellow 5 0 0 0 not_rippable static 0 
+
+#############################################
+
+# PAGE 3
+
+page level_03_page03 
+dood 120 170 scrib 9 0 3 10 rippable patrol 
+dood 221 126 scrib 9 0 3 10 rippable patrol 
+dood 206 278 scrib 9 0 3 10 rippable patrol 
+dood 294 237 scrib 9 0 3 10 rippable patrol 
+dood 30 180 door 7 0 0 0 not_rippable static 0 

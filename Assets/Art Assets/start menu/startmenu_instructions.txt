@@ -1,0 +1,54 @@
+start menu instructions:
+
+===on screen0===
+
+startmenu_screen0
+
+startmenu_pressstart:
+
+location: screen 0, 96x 32y
+
+Once the ripholes title has been drawn,
+start the "press start" animation.
+Loop frames 15-17.
+
+frames 1-14: drawing animation
+frames 15-17: looping animation
+
+
+startmenu_newgame:
+location: 67x,211y
+frames 1-3: shaky animation
+
+startmenu_loadgame:
+location: 141x, 211y
+frames 1-3: shaky animation
+
+startmenu_options:
+location: 101x, 274y
+
+
+====screen1:===
+
+startmenu_screen1
+
+startmenu_title:
+
+There are 4 sprites at the following locations on screen 1:
+ _______ _______
+|Quad1	|Quad2	|
+|64x	|128x 	|
+|48y	|48y	|
+|_______|_______|
+|Quad3	|Quad4	|
+|64x	|128x	|
+|112y	|112y	|
+|_______|_______|
+
+
+Run the animation for each simultaneously:
+
+frames 1-34: writes title
+frames 35-66: writes over title
+frames 67-100: writes a third time
+frames 101-103: looping animation **play this once everything is written**

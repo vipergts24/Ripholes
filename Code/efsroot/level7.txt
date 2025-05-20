@@ -1,0 +1,27 @@
+# (LEVEL 7) MAZE
+# blue crayon
+
+#############################################
+
+# PAGE 1
+
+page level_05_page01 
+player    415    30   0 
+beginLvl beginLvl_level_05 
+dood 183 30 spring 15 0 6 8 rippable gravity 0 
+
+#############################################
+
+# PAGE 2
+
+page level_05_page02 
+dood 420 200 spring 15 0 6 8 rippable gravity 0 
+dood 440 440 collectible_crayon_blue 5 0 0 0 not_rippable static 0 
+
+#############################################
+
+# PAGE 3
+
+page level_05_page03 
+dood 90 310 spring 15 0 6 8 rippable gravity 0 
+dood 20 300 door 7 0 0 0 not_rippable static 0 

@@ -1,0 +1,10 @@
+Preteen Avatar Animation Instructions
+
+Dimensions:	64x32
+
+Frame 1:	Standing
+Frame 2-7:	Walking animation
+Frame 8-10:	Running animation
+Frame 11-12:	Turning animation
+Frame 13:	Jump start animation (just show once)
+Frame 14:	Jump animation (loop this after frame 13)
